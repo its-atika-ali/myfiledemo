@@ -422,6 +422,8 @@ fun HomeScreen(modifier: Modifier = Modifier) {
 @Composable
 fun ProfileScreen(modifier: Modifier = Modifier) {
 
+    Text(text = "lets make an account")
+
 }
 
 @Composable
