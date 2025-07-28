@@ -421,11 +421,13 @@ fun HomeScreen(modifier: Modifier = Modifier) {
 
 @Composable
 fun ProfileScreen(modifier: Modifier = Modifier) {
+    Text(text = "This is Profile screen")
 
 }
 
 @Composable
 fun SettingsScreen(modifier: Modifier = Modifier) {
+    Text(text = "This is settings screen")
 
 }
 
